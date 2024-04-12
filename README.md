@@ -1,0 +1,1 @@
+# jellyfin-web-open-with-external-player
